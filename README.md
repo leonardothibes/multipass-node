@@ -1,7 +1,7 @@
-MULTIPASS-BASH
+MULTIPASS-NODE
 ==============
 
-Custom Multipass images for bash basic development.
+Custom Multipass images for Node.js development.
 
 ### Build Image
 ```bash
