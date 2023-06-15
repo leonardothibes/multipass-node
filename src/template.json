@@ -31,7 +31,7 @@
             "inline": [
                 "git clone https://github.com/leonardothibes/multipass-scripts.git /tmp/multipass-scripts",
                 "chmod 755 /tmp/multipass-scripts/scenarios/*",
-                "cd /tmp/multipass-scripts ; sudo -n su ubuntu -c ./scenarios/node.sh"
+                "cd /tmp/multipass-scripts ; sudo ./scenarios/node.sh"
             ]
         },
         {
